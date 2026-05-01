@@ -1,0 +1,23 @@
+{
+  "ExcludedFolders": [],
+  "AlwaysExcludedFiles": [
+    "Library/",
+    "Temp/",
+    "Logs/",
+    "obj/",
+    "bin/",
+    "*.csproj.user",
+    "*.suo",
+    "*.user"
+  ],
+  "SensitiveFilePatterns": [
+    "ProjectSettings/*",
+    "Packages/manifest.json",
+    "*.asset",
+    "*.prefab",
+    "*.shader",
+    "*.hlsl",
+    "*HDRP*",
+    "*URP*"
+  ]
+}
